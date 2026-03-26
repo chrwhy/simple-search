@@ -1,0 +1,7 @@
+.git
+.idea
+.mimocode
+.gocache
+*.db
+.env
+simple-search

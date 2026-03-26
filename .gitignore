@@ -1,0 +1,7 @@
+.idea/
+.mimocode/
+.gocache/
+.env
+simple-search
+example.db
+*_mock_test.go
